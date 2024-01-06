@@ -1,0 +1,4 @@
+run race
+clean the bag
+peel orange
+buy milk
